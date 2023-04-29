@@ -1,0 +1,10 @@
+.Dashboard {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  height: 100vh;
+}
+
+.navbar {
+  height: 50px;
+}/*# sourceMappingURL=Dashboard.css.map */
